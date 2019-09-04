@@ -1,9 +1,10 @@
 {
+  "name": "Facial-Emotion",
   "theme_color": "#2196f3",
   "background_color": "#2196f3",
-  "display": "browser",
+  "display": "standalone",
   "Scope": "/",
-  "start_url": "/",
+  "start_url": "https://terrygoh.github.io/fExpCamera/",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
@@ -46,5 +47,8 @@
       "type": "image/png"
     }
   ],
-  "splash_pages": null
+  "splash_pages": null,
+
+  "gcm_sender_id" : "103547461062"
+
 }
